@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-<h2>Hello</h2>
- </div>
+      <h2>Hello</h2>
+    </div>
   );
 }
 
