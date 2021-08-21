@@ -1,5 +1,5 @@
 function App() {
-  const name = '';
+  let name = '';
   console.log(name);
 
   return (
