@@ -1,10 +1,15 @@
+import AppRouter from './AppRouter';
+import Header from './components/common/Header';
+
 function App() {
   const name = '';
   console.log(name);
 
   return (
     <div>
-      <h2>Hello</h2>
+      <AppRouter>
+        <Header />
+      </AppRouter>
     </div>
   );
 }
